@@ -9,4 +9,3 @@ $('document').ready(function () {
     $('.amenities H4').text(Object.values(amenities).join(', '));
   });
 });
-
